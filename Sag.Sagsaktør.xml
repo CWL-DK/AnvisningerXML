@@ -1,0 +1,18 @@
+<Sagsaktoer> 
+	<Rolle xmlns="urn:oio:sts:generelledefinitioner:1.2.4.0">
+		<UUIDIdentifikator xmlns="urn:oio:sagdok:3.0.0">a1263342-d348-44ba-a566-233f37c4cb67</UUIDIdentifikator>
+	</Rolle>
+	<Type xmlns="urn:oio:sts:generelledefinitioner:1.2.4.0">
+		<UUIDIdentifikator xmlns="urn:oio:sagdok:3.0.0">bc6972cd-8f2b-4b9d-8d37-62916d6a71aa</UUIDIdentifikator>
+	</Type>
+	<ReferenceID xmlns="urn:oio:sts:generelledefinitioner:1.2.4.0">
+		<URNIdentifikator xmlns="urn:oio:sagdok:3.0.0">urn:oio:tt2:sag:administrativenhed:LOSID:00091318</URNIdentifikator>
+	</ReferenceID>
+	<LokalUdvidelseListe xmlns="urn:oio:sts:generelledefinitioner:1.2.4.0">
+		<SagsaktoerLokalUdvidelse xmlns="urn:oio:sts:sagdok:sagindeks:1.2.4.0">
+			<BrugervendtNoegle>KOMM.BEST.</BrugervendtNoegle>
+			<FuldtNavn>Borgmester Madsen</FuldtNavn>
+			<CVR-Nummer>29188475</CVR-Nummer>
+		</SagsaktoerLokalUdvidelse>
+	</LokalUdvidelseListe>
+</Sagsaktoer>
